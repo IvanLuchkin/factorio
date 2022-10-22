@@ -1,0 +1,21 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobinserters",
+      "enabled": true
+    },
+    
+    {
+      "name": "bobinserters-tweak",
+      "enabled": true
+    }
+  ]
+}
